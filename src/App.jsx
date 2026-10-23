@@ -7,9 +7,7 @@ import { muslimArmy, qurayshArmy } from './mock/warriors';
 import Team from './components/Team';
 
 const confettiColors = ['#ffd166', '#ef476f', '#06d6a0', '#118ab2', '#ffffff'];
-const TEAM_SIZE = 4; // hər tərəfdə şəkil sayı artanda 5 et
-
-// hər oyunda döyüşçünün EXP-sinə -30...+30 təsadüfi forma əlavə olunur
+const TEAM_SIZE = 4;
 const withForm = (warrior) => ({
   ...warrior,
   base_experience: warrior.base_experience + Math.floor(Math.random() * 61) - 30,

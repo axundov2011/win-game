@@ -1,0 +1,25 @@
+.site-navbar {
+  background: #111827;
+  padding: 0 24px;
+}
+
+.site-navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+
+.site-navbar a {
+  display: block;
+  padding: 16px 20px;
+  color: #d1d5db;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s, background 0.2s;
+}
+
+.site-navbar a:hover {
+  color: white;
+  background: #1f2937;
+}

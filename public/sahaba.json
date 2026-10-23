@@ -1,0 +1,71 @@
+{
+  "title": "Sahaba Image API",
+  "version": "1.1.0",
+  "characters": [
+    {
+      "id": "hamza-ibn-abdul-muttalib",
+      "nameAz": "Həmzə (r.a.)",
+      "side": "muslim",
+      "type": "Qılınc ustası",
+      "base_experience": 270,
+      "imagePrompt": "7th century Arabian warrior, face hidden in shadow, traditional armor, desert battlefield, dramatic cinematic lighting, respectful Islamic historical art"
+    },
+    {
+      "id": "ali-ibn-abi-talib",
+      "nameAz": "Əli (r.a.)",
+      "side": "muslim",
+      "type": "Cəngavər",
+      "base_experience": 275,
+      "imagePrompt": "7th century Arabian warrior, face not visible, viewed from behind, traditional armor, sword, vast desert, epic historical cinema, respectful Islamic art"
+    },
+    {
+      "id": "miqdad-ibn-amr",
+      "nameAz": "Miqdad (r.a.)",
+      "side": "muslim",
+      "type": "Süvari",
+      "base_experience": 235,
+      "imagePrompt": "early Islamic Arabian warrior on horseback, face obscured, seventh century desert, leather armor, cinematic historical realism"
+    },
+    {
+      "id": "abu-ubaydah-ibn-al-jarrah",
+      "nameAz": "Əbu Übeydə (r.a.)",
+      "side": "muslim",
+      "type": "Sərkərdə",
+      "base_experience": 245,
+      "imagePrompt": "early Islamic commander, face hidden, traditional Arabian armor, desert military camp, warm cinematic light, historical concept art"
+    },
+
+    {
+      "id": "abu-jahl",
+      "nameAz": "Əbu Cəhl",
+      "side": "quraysh",
+      "type": "Sərkərdə",
+      "base_experience": 265,
+      "imagePrompt": "7th century Arabian commander in dark red cloak, face covered by cloth, iron helmet, desert battlefield, dramatic cinematic lighting, historical concept art"
+    },
+    {
+      "id": "utba-ibn-rabia",
+      "nameAz": "Utbə",
+      "side": "quraysh",
+      "type": "Komandir",
+      "base_experience": 245,
+      "imagePrompt": "7th century Arabian warrior, face in shadow, dark armor, spear, desert dunes, cinematic historical realism"
+    },
+    {
+      "id": "shayba-ibn-rabia",
+      "nameAz": "Şeybə",
+      "side": "quraysh",
+      "type": "Qılınc ustası",
+      "base_experience": 240,
+      "imagePrompt": "7th century Arabian swordsman, face hidden by helmet, red cloak, desert battlefield, epic cinematic lighting"
+    },
+    {
+      "id": "walid-ibn-utba",
+      "nameAz": "Vəlid",
+      "side": "quraysh",
+      "type": "Cəngavər",
+      "base_experience": 250,
+      "imagePrompt": "7th century Arabian knight on horseback, face obscured, dark red armor, desert, dramatic cinematic historical art"
+    }
+  ]
+}

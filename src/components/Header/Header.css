@@ -1,0 +1,20 @@
+.site-header {
+  background: linear-gradient(135deg, #4f46e5, #7c3aed);
+  color: white;
+  text-align: center;
+  padding: 48px 16px;
+}
+
+.site-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 8px;
+}
+
+.site-header p {
+  opacity: 0.85;
+}
+
+p {
+    margin-top: 20px;
+    
+}

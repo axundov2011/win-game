@@ -26,7 +26,6 @@ const Game = () => {
   };
 
   return (
-    // key dəyişəndə içindəki hər şey yenidən qurulur, animasiyalar təkrar başlayır
     <div key={round}>
       <Countdown />
 

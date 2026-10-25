@@ -1,9 +1,11 @@
 import './App.css'
 import Header from "./components/Header"
 import Navbar from './components/Navbar';
+import Game from './components/Game';
 import { useState } from 'react';
 import { getTotalExp, shuffle } from './common/helpers';
 import { muslimArmy, qurayshArmy } from './mock/warriors';
+
 import Team from './components/Team';
 
 const confettiColors = ['#ffd166', '#ef476f', '#06d6a0', '#118ab2', '#ffffff'];
